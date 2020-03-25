@@ -1,0 +1,14 @@
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\bin\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\bin\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.pdb
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod_H_Asal_Sayı_Kontrol_v2._0_Corona.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod_H_Asal_Sayı_Kontrol_v2._0_Corona.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.exe
+C:\Users\mrt_b\Desktop\Blog\4 Projeler\Kod-H Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.pdb
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.exe
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.pdb
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\bin\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.exe
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\bin\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.pdb
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod_H_Asal_Sayı_Kontrol_v2._0_Corona.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod_H_Asal_Sayı_Kontrol_v2._0_Corona.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\88 Asal Sayı Kontrol v2.0 Corona\Kod-H Asal Sayı Kontrol v2.0 Corona\obj\x86\Debug\Kod-H Asal Sayı Kontrol v2.0 Corona.csproj.GenerateResource.Cache
